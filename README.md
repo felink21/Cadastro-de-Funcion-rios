@@ -1,2 +1,2 @@
-# Cadastro-de-Funcion-rios
+# Cadastro-de-Funcionarios
 Angular 8 CRUD - FireBase
